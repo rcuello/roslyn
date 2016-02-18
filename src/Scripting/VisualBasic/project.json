@@ -1,6 +1,6 @@
 ﻿{
   "dependencies": {
-    "Microsoft.VisualBasic": "10.0.1-beta-23504",
+    "Microsoft.VisualBasic": "10.0.0",
     "System.AppContext": "4.0.1-beta-23504"
   },
   "frameworks": {
